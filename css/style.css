@@ -321,8 +321,8 @@ p i{
     position: fixed;
     right: 0;
     bottom: 0;
-    z-index:1;
-    background-color: rgba(5, 129, 196, 0.9);
+    z-index:2;
+    background-color: rgb(5, 129, 196);
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
 }
@@ -404,7 +404,7 @@ p i{
     width:10%;
     right: 0;
     bottom: 0;
-    z-index:2;
+    z-index:1;
     position: fixed;
 }
 

@@ -1,0 +1,42 @@
+[
+    {
+        "url":"img/carousel/python.png",
+        "caption":"Python"
+    },
+    {
+        "url":"img/carousel/mysql.png",
+        "caption":"MySQL"
+    },
+    {
+        "url":"img/carousel/javascript.png",
+        "caption":"JavaScript"
+    },
+    {
+        "url":"img/carousel/css.png",
+        "caption":"CSS"
+    },
+    {
+        "url":"img/carousel/html.png",
+        "caption":"HTML 5"
+    },
+    {
+        "url":"img/carousel/json.png",
+        "caption":"JSON"
+    },
+    {
+        "url":"img/carousel/python.png",
+        "caption":"Python"
+    },
+    {
+        "url":"img/carousel/mysql.png",
+        "caption":"MySQL"
+    },
+    {
+        "url":"img/carousel/javascript.png",
+        "caption":"JavaScript"
+    },
+    {
+        "url":"img/carousel/css.png",
+        "caption":"CSS3"
+    }
+]

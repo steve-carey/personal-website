@@ -621,4 +621,8 @@ p i{
         width: 100%;
         height:100%;
     }
+    .close{
+        margin-top:10vh;
+        margin-bottom:2vh;
+    }
 }

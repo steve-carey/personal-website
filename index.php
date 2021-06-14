@@ -15,7 +15,7 @@
             <li id = logo><a href = "#"><img src = "img/logo.png" width ="29" height ="29"></a></li>
             <li><a id = about href = "#">About</a></li>
             <li><a href = "adventure.html">Adventure</a></li>
-            <li class = "push"><a href = "contact.html">Contact</a></li>
+            <li class = "push"><a href = "contact.php">Contact</a></li>
         </ul>
     </nav>
     <div class ="home-wrapper" id ="home-wrapper">

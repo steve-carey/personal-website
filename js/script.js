@@ -135,7 +135,7 @@ window.onscroll = function() {
 //if it does, passes url and corresponding id to createGallery()
 if(document.getElementById("falklands-gallery") !== null){
     const gallery = document.getElementById("falklands-gallery");
-    createGallery ("img/falklands.JSON", gallery)
+    createGallery ("img/falklands.json", gallery)
 
 }else if(document.getElementById("antarctica-gallery") !== null){
   const gallery = document.getElementById("antarctica-gallery");
